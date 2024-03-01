@@ -20,7 +20,6 @@ Prism.languages['wlanguage'] = {
         lookforward: true,
         greedy: true
     },
-    "": / /,
     // TODO: Modify the `number` RegEx to match the WLanguage syntax
     "number": /\b0(?:b(?:_?[01])+|o(?:_?[0-7])+|x(?:_?[a-f0-9])+)\b|(?:\b\d+(?:_\d+)*(?:\.(?:\d+(?:_\d+)*)?)?|\B\.\d+(?:_\d+)*)(?:e[+-]?\d+(?:_\d+)*)?j?(?!\w)/i,
     "operator": /[+-]{1,2}|[-%=]=?|!=|:=|\*\*?=?|<[<=>]?|>[=>]?|[&|^~]|Modulo|\//,
@@ -30,4 +29,5 @@ Prism.languages['wlanguage'] = {
     "builtin": /\b(?:booléen|entier|chaîne|Email|emailSessionSMTP|emailOptionDéfaut)\b/,
 }
 
+Prism.languages.wlang = Prism.languages.wlanguage
 Prism.languages.webmanifest = Prism.languages.json

@@ -1558,8 +1558,11 @@
 			"owner": "Golmote"
 		},
 		"wlanguage": {
-			"title": "Wlanguage",
+			"title": "WLanguage",
 			"alias": ["wlang"],
+			"aliasTitles": {
+				"wlang": "WLanguage"
+			},
 			"owner": "alexis-opolka"
 		},
 		"wolfram": {
