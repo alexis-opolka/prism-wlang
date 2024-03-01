@@ -1557,6 +1557,11 @@
 			"require": "markup",
 			"owner": "Golmote"
 		},
+		"wlanguage": {
+			"title": "Wlanguage",
+			"alias": ["wlang"],
+			"owner": "alexis-opolka"
+		},
 		"wolfram": {
 			"title": "Wolfram language",
 			"alias": ["mathematica", "nb", "wl"],
