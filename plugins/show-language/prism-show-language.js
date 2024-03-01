@@ -278,6 +278,7 @@
 		"webidl": "Web IDL",
 		"wgsl": "WGSL",
 		"wiki": "Wiki markup",
+		"wlang": "Wlanguage",
 		"wolfram": "Wolfram language",
 		"nb": "Mathematica Notebook",
 		"wl": "Wolfram language",

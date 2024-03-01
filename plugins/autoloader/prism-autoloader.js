@@ -273,6 +273,7 @@
 		"vb": "visual-basic",
 		"vba": "visual-basic",
 		"webidl": "web-idl",
+		"wlang": "wlanguage",
 		"mathematica": "wolfram",
 		"nb": "wolfram",
 		"wl": "wolfram",
